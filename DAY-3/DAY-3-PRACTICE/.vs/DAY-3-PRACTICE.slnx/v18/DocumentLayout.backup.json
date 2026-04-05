@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCC3DA2-F870-43BB-85EE-53FFE77A9563}|DAY-3-PRACTICE\\DAY-3-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-3\\day-3-practice\\day-3-practice\\controllers\\grettingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCC3DA2-F870-43BB-85EE-53FFE77A9563}|DAY-3-PRACTICE\\DAY-3-PRACTICE.csproj|solutionrelative:day-3-practice\\controllers\\grettingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCC3DA2-F870-43BB-85EE-53FFE77A9563}|DAY-3-PRACTICE\\DAY-3-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-3\\day-3-practice\\day-3-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCC3DA2-F870-43BB-85EE-53FFE77A9563}|DAY-3-PRACTICE\\DAY-3-PRACTICE.csproj|solutionrelative:day-3-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCC3DA2-F870-43BB-85EE-53FFE77A9563}|DAY-3-PRACTICE\\DAY-3-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-3\\day-3-practice\\day-3-practice\\services\\grettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCC3DA2-F870-43BB-85EE-53FFE77A9563}|DAY-3-PRACTICE\\DAY-3-PRACTICE.csproj|solutionrelative:day-3-practice\\services\\grettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrettingController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\DAY-3-PRACTICE\\Controllers\\GrettingController.cs",
+              "RelativeDocumentMoniker": "DAY-3-PRACTICE\\Controllers\\GrettingController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\DAY-3-PRACTICE\\Controllers\\GrettingController.cs",
+              "RelativeToolTip": "DAY-3-PRACTICE\\Controllers\\GrettingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:29:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrettingService.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\DAY-3-PRACTICE\\Services\\GrettingService.cs",
+              "RelativeDocumentMoniker": "DAY-3-PRACTICE\\Services\\GrettingService.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\DAY-3-PRACTICE\\Services\\GrettingService.cs*",
+              "RelativeToolTip": "DAY-3-PRACTICE\\Services\\GrettingService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:05:33.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\DAY-3-PRACTICE\\Program.cs",
+              "RelativeDocumentMoniker": "DAY-3-PRACTICE\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-3\\DAY-3-PRACTICE\\DAY-3-PRACTICE\\Program.cs*",
+              "RelativeToolTip": "DAY-3-PRACTICE\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:35:33.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
