@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwqUgSzYOzE=",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kshit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\kshit\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

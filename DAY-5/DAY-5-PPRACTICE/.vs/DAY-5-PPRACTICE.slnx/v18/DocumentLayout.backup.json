@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-5\\day-5-ppractice\\day-5-ppractice\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|solutionrelative:day-5-ppractice\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-5\\day-5-ppractice\\day-5-ppractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|solutionrelative:day-5-ppractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-5\\day-5-ppractice\\day-5-ppractice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|solutionrelative:day-5-ppractice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-5\\day-5-ppractice\\day-5-ppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EBDFF3-5B4D-4987-9B83-A75A5E612E5E}|DAY-5-PPRACTICE\\DAY-5-PPRACTICE.csproj|solutionrelative:day-5-ppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DAY-5-PPRACTICE\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Views\\User\\Index.cshtml*",
+              "RelativeToolTip": "DAY-5-PPRACTICE\\Views\\User\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T13:08:43.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DAY-5-PPRACTICE\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "DAY-5-PPRACTICE\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:59:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAY-5-PPRACTICE\\Models\\User.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Models\\User.cs*",
+              "RelativeToolTip": "DAY-5-PPRACTICE\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:56:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Program.cs",
+              "RelativeDocumentMoniker": "DAY-5-PPRACTICE\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-5\\DAY-5-PPRACTICE\\DAY-5-PPRACTICE\\Program.cs*",
+              "RelativeToolTip": "DAY-5-PPRACTICE\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:52:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

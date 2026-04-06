@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-4\\day-4-practice\\day-4-practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|solutionrelative:day-4-practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-4\\day-4-practice\\day-4-practice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|solutionrelative:day-4-practice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-4\\day-4-practice\\day-4-practice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|solutionrelative:day-4-practice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-4\\day-4-practice\\day-4-practice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|solutionrelative:day-4-practice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-4\\day-4-practice\\day-4-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBC42AD-F768-42B4-8B1B-77881B5CE937}|DAY-4-PRACTICE\\DAY-4-PRACTICE.csproj|solutionrelative:day-4-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAY-4-PRACTICE\\Models\\Product.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Models\\Product.cs",
+              "RelativeToolTip": "DAY-4-PRACTICE\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:26:29.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DAY-4-PRACTICE\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DAY-4-PRACTICE\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:28:24.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DAY-4-PRACTICE\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DAY-4-PRACTICE\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:37:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Program.cs",
+              "RelativeDocumentMoniker": "DAY-4-PRACTICE\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Program.cs",
+              "RelativeToolTip": "DAY-4-PRACTICE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:44:04.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAY-4-PRACTICE\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-4\\DAY-4-PRACTICE\\DAY-4-PRACTICE\\Models\\Student.cs",
+              "RelativeToolTip": "DAY-4-PRACTICE\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:30:28.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
