@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AACA6B-77BA-95F1-E4CA-95D30AD52093}|DAY-1-PRACTICE\\DAY-1-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-1\\day-1-practice\\day-1-practice\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9AACA6B-77BA-95F1-E4CA-95D30AD52093}|DAY-1-PRACTICE\\DAY-1-PRACTICE.csproj|solutionrelative:day-1-practice\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AACA6B-77BA-95F1-E4CA-95D30AD52093}|DAY-1-PRACTICE\\DAY-1-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-1\\day-1-practice\\day-1-practice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9AACA6B-77BA-95F1-E4CA-95D30AD52093}|DAY-1-PRACTICE\\DAY-1-PRACTICE.csproj|solutionrelative:day-1-practice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AACA6B-77BA-95F1-E4CA-95D30AD52093}|DAY-1-PRACTICE\\DAY-1-PRACTICE.csproj|d:\\asp.net core\\asp.net-learning\\day-1\\day-1-practice\\day-1-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9AACA6B-77BA-95F1-E4CA-95D30AD52093}|DAY-1-PRACTICE\\DAY-1-PRACTICE.csproj|solutionrelative:day-1-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\DAY-1-PRACTICE\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "DAY-1-PRACTICE\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\DAY-1-PRACTICE\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "DAY-1-PRACTICE\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T07:03:22.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\DAY-1-PRACTICE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DAY-1-PRACTICE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\DAY-1-PRACTICE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DAY-1-PRACTICE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:32:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\DAY-1-PRACTICE\\Program.cs",
+              "RelativeDocumentMoniker": "DAY-1-PRACTICE\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Asp.Net-Learning\\DAY-1\\DAY-1-PRACTICE\\DAY-1-PRACTICE\\Program.cs",
+              "RelativeToolTip": "DAY-1-PRACTICE\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:16:41.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
